@@ -1,8 +1,6 @@
-### Hi there, I'm WEGFan! 👋
+### Hi there, I'm WFanxe! 👋
 
-<a href="https://github.com/WEGFan">
-  <img src="https://github-readme-stats.vercel.app/api?username=WEGFan&show_icons=true" alt="WEGFan's GitHub Stats" />
-</a>
+ 
 
 ### My latest projects
 
